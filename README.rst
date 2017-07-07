@@ -29,7 +29,7 @@ comparison succeeds and alse sets their value:
   >>> vars.x == 1
   True
 
-But, at that point, the value is set, and you can make assertions
+At that point, the value is set, and you can make assertions
 against it:
 
   >>> vars.x
