@@ -1,5 +1,5 @@
 name = 'testvars'
-version = '0'
+version = '1.0.0'
 
 extras_require = dict(test=['zope.testing'])
 

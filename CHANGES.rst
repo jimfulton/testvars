@@ -2,7 +2,7 @@
 Changes
 =======
 
-0.1.0 (yyyy-mm-dd)
+1.0.0 (2017-07-07)
 ==================
 
 Initial release
