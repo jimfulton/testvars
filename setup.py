@@ -10,6 +10,7 @@ long_description = open('README.rst').read() + '\n' + open('CHANGES.rst').read()
 setup(
     author = 'Jim Fulton',
     author_email = 'jim@jimfulton.info',
+    url = 'https://github.com/jimfulton/testvars',
     license = 'MIT',
 
     name = name,
@@ -21,7 +22,7 @@ setup(
     zip_safe = False,
     extras_require = extras_require,
 
-    keywords = "",
+    keywords = ["test", "testing"],
     classifiers = [
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
